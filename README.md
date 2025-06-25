@@ -2,10 +2,11 @@
 
 A responsive and interactive machine learning web application that predicts the likelihood of diabetes based on user input health metrics.
 
-## 🔍 Demo
 
 ![App Screenshot]
+
 ![image](https://github.com/user-attachments/assets/b0036e0d-1b57-4f89-aa80-2edf4cad33f9)
+
 ![image](https://github.com/user-attachments/assets/0976f725-bc29-4264-8c8c-d6f38c5c7f5a)
 
 
