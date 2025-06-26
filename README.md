@@ -1,7 +1,8 @@
 # 🩺 Diabetes Prediction Web App
+Demo Link-https://diabetespredapp.streamlit.app/
+
 
 A responsive and interactive machine learning web application that predicts the likelihood of diabetes based on user input health metrics.
-
 
 ![App Screenshot]
 
